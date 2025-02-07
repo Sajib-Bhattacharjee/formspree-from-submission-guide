@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="/images/formspree-og.jpg" width="100%" height="100%">
+ <img src="/images/formspree-og.jpg" width="100%" height="400px">
 
 ## `Submit a Form Using Formspree`
 
