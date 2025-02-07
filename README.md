@@ -127,3 +127,28 @@ Formspree is a form backend service that allows you to handle form submissions w
 - **Form Not Submitting:** Ensure the `action` URL is correct and the form has a `method="POST"` attribute.
 - **No Email Received:** Check your Formspree dashboard to confirm the submission. Ensure your email settings are configured correctly.
 - **Spam Submissions:** Enable reCAPTCHA or honeypot in your Formspree settings.
+
+
+
+---
+
+<div align="center">
+
+##### 🛡️ `All rights reserved by Sajib Bhattacharjee @2025`
+
+### 👨‍💻 `Created with ❤️ by -->`
+
+✨ **Sajib Bhattacharjee** ✨
+
+**💖 Dedicated to "Sir! Anisul Islam" 💖**
+
+> > > > ### 🙏 Thanks a Lot for Visiting...!!!
+
+🌐 [**Portfolio & Projects**](https://github.com/Sajib-Bhattacharjee)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/sajib-bhattacharjee-42682a178/)  
+📧 [**Contact Me**](mailto:sajibbhattacjarjee2000@gmail.com)
+
+</div>
+
+
+
