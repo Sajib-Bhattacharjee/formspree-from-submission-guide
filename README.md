@@ -7,9 +7,8 @@
 </div>
 
 ```node
-This guide provides a comprehensive walkthrough of
-using Formspree to handle form submissions without
-writing server-side code.
+This guide provides a comprehensive walkthrough of using Formspree to handle
+form submissions without writing server-side code.
 ```
 
 ### `Step-by-Step Guide`
